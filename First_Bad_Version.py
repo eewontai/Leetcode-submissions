@@ -23,3 +23,5 @@ class Solution:
                 i = (i+j)//2
                 if isBadVersion(i+1):
                     return i+1
+
+                
