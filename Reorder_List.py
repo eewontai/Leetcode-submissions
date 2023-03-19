@@ -24,3 +24,5 @@ class Solution:
                 st.next = stack.pop()
                 st = st.next
         st.next = None
+
+        
